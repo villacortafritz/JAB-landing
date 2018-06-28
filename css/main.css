@@ -874,7 +874,7 @@ ul.nav > li > a.active{
    Footer Section
    ========================================================================== */
 .footer_section{
-    background: linear-gradient(to right,  #4de3b3, #07bae0);
+    background: linear-gradient(to right,  #4de3b3, #4de3b3);
     display: block;
     color: #fff;
     text-align: center;
@@ -890,7 +890,7 @@ ul.nav > li > a.active{
    Scroll To Top
    ========================================================================== */
 #scroll-to-top{
-    background: linear-gradient(to right,  #4de3b3, #07bae0);
+    background: linear-gradient(to right,  #9df3d8, #9df3d8);
     display: none;
     width: 45px;
     height: 45px;
